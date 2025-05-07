@@ -15,7 +15,7 @@ import westernUnionLogo from "./Images/Web/Western_union.svg"
 import mastercardLogo from "./Images/Web/master_card.svg"
 import ishopLogo from './Images/Web/iSHOP Logo.svg'
 
-
+// import new data
 
 // const Accesories = Accessoriedata.map((Accessoriedata) => <ul>{Accessoriedata}</ul>)
 const UserContext = React.createContext(null);
